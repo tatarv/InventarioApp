@@ -1,5 +1,5 @@
 # InventarioApp
-Aplicativo para inventário de ativos de TI
+- Aplicativo para inventário de ativos de TI
 
 # Objetivo
 - Aplicativo criado para auxiliar no inventário de ativos de TI como servidores, switchs, roteadores e estações de trabalho
@@ -42,3 +42,11 @@ Aplicativo para inventário de ativos de TI
 - Exclusão de locais
 
 ![alt tag](https://github.com/taisnayara145/InventarioApp/blob/master/Telas/ExcluirLocal.jpg)
+
+- Pesquisa por filtros
+
+![alt tag](https://github.com/taisnayara145/InventarioApp/blob/master/Telas/Pesquisa.jpg)
+
+- Filtros
+
+![alt tag](https://github.com/taisnayara145/InventarioApp/blob/master/Telas/Filtros.jpg)
