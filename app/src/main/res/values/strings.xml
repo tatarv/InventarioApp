@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">InventarioApp</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_locais">Locais</string>
+    <string name="menu_pesquisa">Pesquisar</string>
+    <string name="menu_cadastrar">Cadastrar</string>
+
+    <string name="toolbartitle_fragmenthome">Dispositivos</string>
+    <string name="toolbartitle_fragmentlocal">Locais</string>
+    <string name="toolbartitle_fragmentpesquisa">Pesquisas</string>
+    <string name="textview_qtd">0</string>
+    <string name="textview_qtdtotal">Itens</string>
+    <string name="textview_listavazia">Nenhum Item encontrado</string>
+    <string name="textview_processando">Processando</string>
+    <string name="edittext_nome">Nome</string>
+    <string name="edittext_hostname">Hostname</string>
+    <string name="edittext_ativo">Ativo</string>
+    <string name="edittext_ip">192.168.1.</string>
+    <string name="edittext_pesquisa">Digite para pesquisar</string>
+    <string name="edittext_descricao">Digite uma breve descrição</string>
+
+    <string name="botao_salvar">Salvar</string>
+    <string name="botao_alterar">Alterar</string>
+
+    <string-array name="spinner_categorias">
+        <item>Selecione uma categoria</item>
+        <item>Servidor</item>
+        <item>Switch</item>
+        <item>Roteador</item>
+        <item>Estação de trabalho</item>
+    </string-array>
+
+    <string-array name="spinner_sistemas">
+        <item>Selecione um sistema operacional</item>
+        <item>Windows 7 Professional 32 bits</item>
+        <item>Windows XP 32 bits</item>
+        <item>Linux Mint</item>
+        <item>Linux Cent OS </item>
+        <item>Linux Debian </item>
+    </string-array>
+
+    <string-array name="spinner_tipos">
+        <item>Selecione um tipo</item>
+        <item>Sala de servidores</item>
+        <item>Sala na Administração</item>
+        <item>Linha de Produção</item>
+    </string-array>
+
+    <string-array name="spinner_filtros">
+        <item>Selecione um filtro</item>
+        <item>Hostname</item>
+        <item>Ativo</item>
+        <item>IP</item>
+        <item>Categoria</item>
+        <item>Sistema Operacional</item>
+        <item>Local</item>
+    </string-array>
+
+</resources>
